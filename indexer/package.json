@@ -1,0 +1,30 @@
+{
+  "name": "indexer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "aes-js": "^3.0.0",
+    "bech32": "^1.1.4",
+    "bn.js": "^5.2.1",
+    "brorand": "^1.1.0",
+    "dotenv": "^16.0.1",
+    "elliptic": "^6.5.4",
+    "ethers": "^5.6.9",
+    "hash.js": "^1.1.7",
+    "hmac-drbg": "^1.0.1",
+    "inherits": "^2.0.4",
+    "js-sha3": "^0.8.0",
+    "md5": "^2.3.0",
+    "minimalistic-assert": "^1.0.1",
+    "minimalistic-crypto-utils": "^1.0.1",
+    "mysql2": "^2.3.3",
+    "scrypt-js": "^3.0.1",
+    "ws": "^7.4.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
